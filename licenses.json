@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "manifestId": "3f1c9a52-7d4e-4b8a-9c21-6e5f0a8d2b17",
+  "issuedAtUtc": "2026-11-18T00:00:00Z",
+  "nextUpdateUtc": "2026-11-19T00:00:00Z",
+  "applications": [
+    {
+      "applicationId": "extract-chat",
+      "customerId": "proteccion",
+      "customerName": "Protección S.A.",
+      "installationId": "340e2478-5341-47f7-abce-bf70ab73875b",
+      "enabled": true,
+      "validFromUtc": "2026-11-01T00:00:00Z",
+      "validUntilUtc": "2027-10-31T23:59:59Z",
+      "minimumVersion": "1.0.0",
+      "maximumVersion": null,
+      "message": "La aplicación se encuentra inactiva. Por favor comuníquese con el administrador.",
+      "supportEmail": "wilson.olarte@softwareone.com"
+    },
+    {
+      "applicationId": "extract-chat",
+      "customerId": "nadro",
+      "customerName": "NADRO S.A.P.I. de C.V.",
+      "installationId": "b7d2e4f1-3a6c-4e9b-8f05-1c2d3e4f5a6b",
+      "enabled": true,
+      "validFromUtc": "2026-11-01T00:00:00Z",
+      "validUntilUtc": "2026-12-31T23:59:59Z",
+      "minimumVersion": "1.0.0",
+      "maximumVersion": null,
+      "message": "La licencia de la aplicación ha vencido. Por favor comuníquese con el administrador.",
+      "supportEmail": "wilson.olarte@softwareone.com"
+    },
+    {
+      "applicationId": "extract-chat",
+      "customerId": "invima",
+      "customerName": "INVIMA",
+      "installationId": "c9e8f7a6-5b4c-4d3e-a2f1-0e9d8c7b6a54",
+      "enabled": false,
+      "validFromUtc": "2026-11-01T00:00:00Z",
+      "validUntilUtc": "2027-10-31T23:59:59Z",
+      "minimumVersion": "1.0.0",
+      "maximumVersion": null,
+      "message": "Esta instalación fue deshabilitada. Por favor comuníquese con el administrador.",
+      "supportEmail": "wilson.olarte@softwareone.com"
+    }
+  ]
+}
