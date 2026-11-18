@@ -9,7 +9,7 @@
       "customerId": "proteccion",
       "customerName": "Protección S.A.",
       "installationId": "340e2478-5341-47f7-abce-bf70ab73875b",
-      "enabled": false,
+      "enabled": true,
       "validFromUtc": "2026-11-01T00:00:00Z",
       "validUntilUtc": "2027-10-31T23:59:59Z",
       "minimumVersion": "1.0.0",
